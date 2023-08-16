@@ -29,3 +29,6 @@ Puedes deployar en Vercel directamente [haciendo click aquí](https://vercel.com
 
 ## Credits
 - [Ilustraciones](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8) - Illustration by Dani Grapevine from Ouch!
+
+## Collaborators
+- 
